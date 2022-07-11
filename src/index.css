@@ -98,10 +98,7 @@ input:focus {
   text-decoration: line-through;
 }
 
-.fa-trash {
-  display: none;
-}
-
+.fa-trash,
 .edit {
   display: none;
 }
